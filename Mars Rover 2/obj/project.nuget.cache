@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aU7llM4tEfYc8RL3aEdhNwNquPDhYOstYWv7MZmdJXQxUsRbnYcZv0PGf+qRDIPvduOltTRzHJxQHTcVvfeFNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tatenda\\source\\repos\\Mars Rover\\Mars Rover 2\\Mars Rover.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tatenda\\.nuget\\packages\\mstest.analyzers\\3.8.2\\mstest.analyzers.3.8.2.nupkg.sha512",
+    "C:\\Users\\Tatenda\\.nuget\\packages\\mstest.testframework\\3.8.2\\mstest.testframework.3.8.2.nupkg.sha512"
+  ],
+  "logs": []
+}

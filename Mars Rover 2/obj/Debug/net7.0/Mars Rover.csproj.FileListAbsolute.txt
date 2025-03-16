@@ -1,0 +1,32 @@
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\bin\Debug\net7.0\Mars Rover.exe
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\bin\Debug\net7.0\Mars Rover.deps.json
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\bin\Debug\net7.0\Mars Rover.runtimeconfig.json
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\bin\Debug\net7.0\Mars Rover.dll
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\bin\Debug\net7.0\Mars Rover.pdb
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\obj\Debug\net7.0\Mars Rover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\obj\Debug\net7.0\Mars Rover.AssemblyInfoInputs.cache
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\obj\Debug\net7.0\Mars Rover.AssemblyInfo.cs
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\obj\Debug\net7.0\Mars Rover.csproj.CoreCompileInputs.cache
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\obj\Debug\net7.0\Mars Rover.dll
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\obj\Debug\net7.0\refint\Mars Rover.dll
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\obj\Debug\net7.0\Mars Rover.pdb
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\obj\Debug\net7.0\Mars Rover.genruntimeconfig.cache
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\obj\Debug\net7.0\ref\Mars Rover.dll
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\obj\Debug\net7.0\Mars Rover.csproj.AssemblyReference.cache
+C:\Users\Tatenda\source\repos\Mars Rover\Mars Rover 2\obj\Debug\net7.0\Mars Rover.csproj.CopyComplete
